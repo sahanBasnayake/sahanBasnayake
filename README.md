@@ -5,7 +5,7 @@
 
 <table align="center" border =0>
 <tr>
-<td width="50%" align="left">
+<td width="55%" align="left">
   
 - 🌱 I’m currently learning **JAVA** , **JavaScript** and **Unity**
 
